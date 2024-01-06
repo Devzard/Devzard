@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-I'm Debashish, a passionate computer science engineer, currently delving deep into the realms of Artificial Intelligence and Machine Learning. Hailing from India 🇮🇳, I'm thrilled to welcome you to my GitHub profile!
+I'm **Debashish**, a passionate computer science engineer, currently delving deep into the realms of *Artificial Intelligence* and *Machine Learning*. Hailing from India 🇮🇳, I'm thrilled to welcome you to my GitHub profile!
 
 ## About Me
 
